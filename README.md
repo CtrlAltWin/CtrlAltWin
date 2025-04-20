@@ -40,9 +40,9 @@
 
 ## 🌐 Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/raunak-kumar-065289266/)
 - 🧑‍💻 [GitHub](https://github.com/CtrlAltWin)
-- 📧 [Email](mailto:your.email@example.com)
+- 📧 [Email](mailto:raunakkumar7245@gmail.com)
 
 ---
 
