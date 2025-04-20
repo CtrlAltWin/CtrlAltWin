@@ -7,7 +7,7 @@
 
 🧠 I’m a **MERN Stack Developer** who shifted from C++ & DSA to full-stack development — now building cool things with React, Node, and MongoDB.
 
-🔍 I also enjoy solving Data Structures & Algorithms problems — currently a **3⭐️ on CodeChef** and active on **LeetCode** as [raunak_1611](https://leetcode.com/raunak_1611).
+🔍 I also enjoy solving Data Structures & Algorithms problems — active on **LeetCode** as [raunak_1611](https://leetcode.com/raunak_1611).
 
 ---
 
@@ -28,18 +28,13 @@
 ### 🍽️ Foodie
 > A React frontend that fetches Swiggy APIs to show real-time food listings with sleek UI.
 
-### 📊 Link Analytics Dashboard
-> Micro-SaaS app that shortens URLs and tracks clicks with analytics — built with React, Node.js, and MongoDB.
-
 ### 🌍 Language Translator Chat App *(WIP)*
 > Chat app with automatic translation between sender and receiver languages.
 
 ---
 
 ## 🚀 Currently Learning
-- React Native
-- Advanced System Design
-- Unified Field Theory (yup, physics geek too 🤓)
+- Node, Express and Competetive Programming
 
 ---
 
