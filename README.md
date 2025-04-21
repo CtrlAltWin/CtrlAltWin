@@ -5,7 +5,7 @@
 
 ---
 
-🧠 I’m a **MERN Stack Developer** who shifted from C++ & DSA to full-stack development — now building cool things with React, Node, and MongoDB.
+I’m a **MERN Stack Developer** who shifted from C++ & DSA to full-stack development — now building cool things with React, Node, and MongoDB.
 
 🔍 I also enjoy solving Data Structures & Algorithms problems — active on **LeetCode** as [raunak_1611](https://leetcode.com/raunak_1611).
 
