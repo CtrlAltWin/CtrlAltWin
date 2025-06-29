@@ -23,7 +23,7 @@ I’m a **MERN Stack Developer** who shifted from C++ & DSA to full-stack develo
 ## 🚧 Projects I'm proud of
 
 ### CodersMedia
-> A MERN-based social platform for developers to connect, share profiles, and collaborate. Hosted on AWS EC2 with custom Nginx + PM2 setup.
+> A MERN-based social platform for developers to connect, share profiles, and collaborate.
 
 ### BookmarkHub
 > A sleek and intuitive bookmark manager to effortlessly save, organize, and access your favorite links.
