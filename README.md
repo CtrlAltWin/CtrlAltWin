@@ -15,7 +15,7 @@ I’m a **MERN Stack Developer** who shifted from C++ & DSA to full-stack develo
 - **Frontend:** React, Tailwind CSS, Redux
 - **Backend:** Node.js, Express
 - **Database:** MongoDB, Mongoose
-- **Dev Tools:** Git, GitHub, Postman, Vite, PM2, Nginx
+- **Dev Tools:** Git, GitHub, Postman, Vite.
 - **Languages:** JavaScript, C++, a bit of Python
 
 ---
